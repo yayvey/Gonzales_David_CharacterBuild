@@ -9,8 +9,8 @@
 
 >Chose a different theme for the page. Switched all the images around, and changed the lightboxes to fit the amount of characters I need.
 
->I played around with CSS, and discovered how to position images/text and how to change colors.
->I created a sprite image for the characters of Samurai Champloo, and applied to to my assignment.
+>I played around with CSS, and discovered how to position images/text, set xyz's, make sprites function, and how to change colors.
+>I created a sprite image for the characters of Samurai Champloo, and applied it to my assignment.
 
 >I updated 3 lightboxes to show more content on click; I changed the background and cursor images for all lightboxes. 
 >I edited the bannergif in premiere pro, and personally resized all the images/gifs used for uniformity.
