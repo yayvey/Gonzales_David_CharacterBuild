@@ -69,12 +69,12 @@ header {
     background-color: #550000;
     /*changed color slightly*/
 
-    transition: height 0.2s ease;
+    transition: height 0.4s ease;
 
     position: absolute;
 }
 
-.characters li:hover .red_bumper { height: 70px; }
+.characters li:hover .red_bumper { height: 50px; }
 
 article { padding: 20px; }
 
@@ -96,16 +96,16 @@ article p {
 }
 
 .sprite {
-    width: 500px;
-    height: 500px;
+    width: 333px;
+    height: 650px;
     
     background-image: url('../images/SamuraiChamplooSprites.png');
 }
 
-#fuu { background-position: -500px 0; }
-#mugen { background-position: -1000px 0; }
+#mugen { background-position: -333px 0; }
+#fuu { background-position: -666px 0; }
 
-.sprite:hover { background-position-y: -500px !important; }
+.sprite:hover { background-position-y: -650px !important; }
 
 /* footer rules here */
 footer {
@@ -144,9 +144,9 @@ footer {
 
     display: none;
 }
-#lightbox2 { background-image: url('../images/samurai-champloo-fuu.gif');} 
+#lightbox2 { background-image: url('../images/samurai-champloo-mugen.gif');} 
 /* created another lightbox for fuu and mugen so they all have their own page of unique details*/
-#lightbox3 { background-image: url('../images/samurai-champloo-mugen.gif');}
+#lightbox3 { background-image: url('../images/samurai-champloo-fuu.gif');}
 
 .lightbox_close {
     position: relative;
