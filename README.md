@@ -19,7 +19,7 @@
 
 >I hope this is a well-written read-me.
 
-##EDIT: 
+## EDIT: 
 >I changed all the gifs being used so I had a uniform quality. I changed the sprites I used to be able to fit properly on phone/laptop/desktop.
 >I changed some of the id's to be more accurate (i.e red-bumper = black-bumper)
 >I pull requested and approved multiple times (with one pull request before due date, showing a finished assignment), so all changes are trackable and can prove I did have it done before the due date. 
