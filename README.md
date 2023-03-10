@@ -18,3 +18,11 @@
 >I went to the characters wiki's and pulled various descriptors as placeholder texts for the 3 lightboxes.
 
 >I hope this is a well-written read-me.
+
+##EDIT: 
+>I changed all the gifs being used so I had a uniform quality. I changed the sprites I used to be able to fit properly on phone/laptop/desktop.
+>I changed some of the id's to be more accurate (i.e red-bumper = black-bumper)
+>I pull requested and approved multiple times (with one pull request before due date, showing a finished assignment), so all changes are trackable and can prove I did have it done before the due date. 
+> Only changes after due date were vain, involving tiny value changes/higher quality content to use.
+> Changed content due to recognizing websites process differently on different machines, perfectionist brain could not accept it.
+> The structure of the build didn't change from the build sent before the due date.
